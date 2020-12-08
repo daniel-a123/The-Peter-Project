@@ -2874,6 +2874,9 @@ ul.actions.special {
 
 @media screen and (max-width: 736px) {
   /* Basic */
+	#footer {
+		height: 50vh !important;
+	}
 
   body,
   input,
