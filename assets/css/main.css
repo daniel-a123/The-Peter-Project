@@ -314,8 +314,8 @@ form {
 }
 
 @media screen and (max-width: 736px) {
-	.homepage {
-		height: 100vh;
+	#intro-id {
+		height: 100vh !important;
 	}
 	
   .container {
