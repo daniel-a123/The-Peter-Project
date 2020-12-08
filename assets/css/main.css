@@ -315,7 +315,8 @@ form {
 
 @media screen and (max-width: 736px) {
 	#intro-id {
-		height: 100vh !important;
+		color: #272A33 !important;
+		z-index: -1 !important;
 	}
 	
   .container {
